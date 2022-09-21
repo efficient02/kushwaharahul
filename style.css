@@ -239,7 +239,7 @@ nav{
 #home::before{
     content: "";
     position: absolute;
-    background: url('IMG/portfolio\ cover.jpg') no-repeat center center/cover;
+    background: url('portfolio\ cover.jpg') no-repeat center center/cover;
     height: 642px;
     top: 0px;
     left: 0px;
